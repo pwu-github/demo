@@ -1,0 +1,2 @@
+pacakge main 
+print "aaa"
