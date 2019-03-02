@@ -1,2 +1,2 @@
 pacakge main 
-print "aaa"
+print "Hello World"
